@@ -1,0 +1,3 @@
+com\example\catalog\controller\ProductControllerIntegrationTest.class
+com\example\catalog\repository\ProductRepositoryIntegrationTest.class
+com\example\catalog\service\ProductServiceTest.class
